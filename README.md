@@ -20,26 +20,22 @@ Switch to project directory
 
   
 ## Screenshots
-!img[](![Screenshot_1](https://github.com/user-attachments/assets/0f70ed29-ed9b-421b-a39e-9c56494f51ab)
-)
+![image](![Screenshot_1](https://github.com/user-attachments/assets/0f70ed29-ed9b-421b-a39e-9c56494f51ab))
 
 We start the game by pressing the enter key.
 
-!img[](![Screenshot_2](https://github.com/user-attachments/assets/688461f4-0356-46d4-8309-94918eba8d0a)
-)
+![image](![Screenshot_2](https://github.com/user-attachments/assets/688461f4-0356-46d4-8309-94918eba8d0a))
 
 Game starts with the turn of white player.
 
-!img[](![Screenshot_3](https://github.com/user-attachments/assets/63059021-b700-4175-a4ea-2e464360d9bf)
-)
+![image](![Screenshot_3](https://github.com/user-attachments/assets/63059021-b700-4175-a4ea-2e464360d9bf))
 
 Player enters the current location of the piece and then enters the moving location. 
 
-!img[](![Screenshot_4](https://github.com/user-attachments/assets/4da864a9-ca8c-4dab-a53d-d7b95735260f)
-)
+![image](![Screenshot_4](https://github.com/user-attachments/assets/4da864a9-ca8c-4dab-a53d-d7b95735260f))
 
 Player can attack the enemy piece if the enemy piece at the right spot.
 
-!img[](![Screenshot_5](https://github.com/user-attachments/assets/551ea5c2-8bb5-48ac-869c-c7adaf9bdbbe))
+![image](![Screenshot_5](https://github.com/user-attachments/assets/551ea5c2-8bb5-48ac-869c-c7adaf9bdbbe))
 
 We can finish the game with typing quit. 
